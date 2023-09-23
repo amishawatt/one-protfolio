@@ -1,3 +1,6 @@
+this is a protfolio project that i did with the help of  code commerce (youtube) (https://www.youtube.com/watch?v=2kg0z1qNrkw)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
